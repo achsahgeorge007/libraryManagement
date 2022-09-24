@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.top {
+  margin: 6rem 2%;
+}
+body {
+  font-size: 18px;
+  font-family: 'Quicksand', sans-serif;
+}
+.textCenter {
+  text-align: center;
+}
+.react-datepicker-wrapper {
+  width: 30px !important;
+  padding: 1% 2% !important;
+}

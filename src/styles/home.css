@@ -1,0 +1,10 @@
+.page {
+    width: auto;
+    height: auto;
+    margin: 1% auto;
+}
+.form {
+    border-radius: 4px;
+    padding: 15px 30px;
+    box-shadow: 0px 6px 12px 3px rgba(0, 0, 0, 0.2);
+}
